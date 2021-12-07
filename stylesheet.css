@@ -1,0 +1,22 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #ffffff;
+}
+
+header {
+  text-align: center;
+  background-color: #343330;
+  color: #ffffff;
+}
+
+nav{
+  background-color: rgb(58, 45, 37);
+  width: fit-content;
+}
+
+
+footer {
+  background-color: #423d2c;
+  text-align: center;
+}

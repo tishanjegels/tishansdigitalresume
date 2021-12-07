@@ -1,0 +1,26 @@
+body{
+  font-family:'Courier New', Courier, monospace;
+  font-size:120%;
+  background-color: #faf4f4;
+}
+
+header {
+  text-align: center;
+  background-color: #343330;
+  color: #ffffff;
+}
+
+.education{
+  background-color: aquamarine;
+}
+
+nav{
+  background-color: rgb(58, 45, 37);
+  width: fit-content;
+}
+
+
+footer {
+  background-color: #423d2c;
+  text-align: center;
+}
