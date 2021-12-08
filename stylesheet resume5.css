@@ -1,0 +1,39 @@
+/* Top */
+header {
+  text-align: center;
+  background-color: #06e0fd;
+  color: #000000;
+  padding: 1px;
+}
+img{
+  border-radius: 50%;
+  border: solid burlywood 10px;
+}
+
+/* Middel */
+body{
+  font-family:'Courier New', Courier, monospace;
+  font-size:120%;
+  background-color: #faf4f4;
+}
+
+#context{
+  margin: 70px;
+}
+
+nav{
+  background-color: burlywood;
+  width: fit-content;
+  padding: 1rem;
+
+}
+
+/* Bottom */
+.icons{
+  border-radius: 25%;
+}
+
+footer {
+  background-color: burlywood;
+  text-align: center;
+}
